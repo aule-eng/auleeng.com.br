@@ -9,3 +9,4 @@ Site estático pronto para GitHub Pages.
 - Selecione main e /root.
 - Salve.
 - Em Custom domain, informe auleeng.com.br.
+Última atualização do site: 28/10/2026
