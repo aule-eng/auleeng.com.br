@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://auleeng.com.br/sitemap.xml
