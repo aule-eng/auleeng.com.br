@@ -1,12 +1,9 @@
-# AULE Engenharia Digital
+# AULE Engenharia Digital - versão 2
 
-Site estático pronto para GitHub Pages.
+Versão com portfólio aprimorado, selos de caso aplicado/solução AULE e vídeos incorporados.
 
-## Publicar
-- Envie todos os arquivos e pastas deste pacote para a raiz do repositório.
-- Abra Settings > Pages.
-- Em Source, escolha Deploy from a branch.
-- Selecione main e /root.
-- Salve.
-- Em Custom domain, informe auleeng.com.br.
-Última atualização do site: 28/10/2026
+Vídeos provisórios:
+- BIM 4D: `stEe4U7zPpk`
+- VR/AR: `5jwnMiLfdaM`
+
+Substitua os IDs no `index.html` quando houver vídeos definitivos.
